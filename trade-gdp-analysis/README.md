@@ -234,8 +234,8 @@ Trade hubs achieve extraordinary wealth through extreme trade integration (179% 
 ### Quick Start
 ```bash
 # 1. Clone repository
-git clone https://github.com/iamedobor/Data-Science.git
-cd Data-Science/trade-gdp-analysis
+git clone https://github.com/iamedobor/Data-Science-Projects.git
+cd Data-Science-Projects/trade-gdp-analysis
 
 # 2. Create virtual environment (recommended)
 python -m venv venv
@@ -259,7 +259,7 @@ The dashboard will open at **`http://127.0.0.1:8050/`**
 
 ## 📂 Project Structure
 ```
-Data-Science/
+Data-Science-Projects/
 │
 └── trade-gdp-analysis/
     ├── analysis.ipynb              # Complete Jupyter notebook with full analysis
@@ -288,7 +288,7 @@ Data-Science/
 
 ## 📊 Data Source
 
-**Dataset**: [Global Economy Indicators](https://www.kaggle.com/datasets/willianoliveiragibin/global-economy-indicators) (Kaggle)
+**Dataset**: [Global Economy Indicators](https://www.kaggle.com/heidarmirhajisadati) (Kaggle)
 
 ### Dataset Details
 
