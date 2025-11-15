@@ -216,7 +216,8 @@ def create_navbar(theme):
                 ])
             ], className="ms-auto flex-nowrap mt-3 mt-md-0", align="center")
         ], fluid=True),
-        style={'backgroundColor': '#0D6EFD', 'borderBottom': f"2px solid {theme['border']}"},
+        style={'backgroundColor': '#0D6EFD !important', 'borderBottom': f"2px solid {theme['border']}"},  # Added !important
+        dark=True, 
         sticky="top"
     )
 
