@@ -216,7 +216,7 @@ def create_navbar(theme):
                 ])
             ], className="ms-auto flex-nowrap mt-3 mt-md-0", align="center")
         ], fluid=True),
-        style={'backgroundColor': theme['bg_primary'], 'borderBottom': f"2px solid {theme['border']}"},
+        style={'backgroundColor': '#0D6EFD', 'borderBottom': f"2px solid {theme['border']}"},
         sticky="top"
     )
 
@@ -1362,6 +1362,10 @@ def render_tab_content(active_tab, selected_countries, region_filter, year_filte
 )
 def export_comprehensive_report(n_clicks, selected_countries, region_filter, year_filter, year_range):
     """Generate comprehensive PDF report with all analysis sections"""
+    
+# Stop PDF button callback
+    if n_clicks is None or n_clicks == 0:
+        return None
     
     # Apply country and region filters
     selected_countries = apply_country_region_filter(selected_countries, region_filter)
