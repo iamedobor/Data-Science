@@ -179,12 +179,12 @@ def create_navbar(theme):
         dbc.Container([
             html.A(
                 dbc.Row([
-                    dbc.Col(html.I(className="fas fa-globe", style={'fontSize': '2rem', 'marginRight': '15px'})),
+                    dbc.Col(html.I(className="fas fa-globe", style={'fontSize': '2rem', 'marginRight': '15px', 'color': '#FFFFFF'})),
                     dbc.Col(dbc.NavbarBrand("Trade and GDP Analysis Dashboard", className="ms-2", 
-                                           style={'fontSize': '1.5rem', 'fontWeight': 'bold'})),
+                                           style={'fontSize': '1.5rem', 'fontWeight': 'bold', 'color': '#FFFFFF'})),
                 ], align="center", className="g-0"),
                 href="/",
-                style={"textDecoration": "none", 'color': '#FFFFFF'}
+                style={"textDecoration": "none"}
             ),
             dbc.Row([
                 dbc.Col([
@@ -216,8 +216,8 @@ def create_navbar(theme):
                 ])
             ], className="ms-auto flex-nowrap mt-3 mt-md-0", align="center")
         ], fluid=True),
-        style={'backgroundColor': '#0D6EFD !important', 'borderBottom': f"2px solid {theme['border']}"},  # Added !important
-        dark=True, 
+        color="primary",  # Use Bootstrap's primary color (blue)
+        dark=True,        # White text
         sticky="top"
     )
 
