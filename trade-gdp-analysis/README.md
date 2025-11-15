@@ -60,9 +60,8 @@ This project provides a comprehensive analysis of **how international trade impa
 ## 🌐 Live Demo
 
 ### 🚀 **[View Live Dashboard](https://trade-gdp-dashboard.onrender.com)** 
-*(Note: may take ~60 seconds to load due to server idle timeout)
-
-*
+*(Note: may take ~60 seconds to load due to server idle timeout)*
+**💻 Note: This dashboard is optimized for desktop/laptop viewing. Mobile experience is limited.**
 
 ### 📸 Dashboard Preview
 
