@@ -184,7 +184,7 @@ def create_navbar(theme):
                                            style={'fontSize': '1.5rem', 'fontWeight': 'bold'})),
                 ], align="center", className="g-0"),
                 href="/",
-                style={"textDecoration": "none", 'color': theme['text_primary']}
+                style={"textDecoration": "none", 'color': '#FFFFFF'}
             ),
             dbc.Row([
                 dbc.Col([
