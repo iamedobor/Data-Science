@@ -178,6 +178,7 @@ Interested in contributing to Version 2.0? Here are priority areas:
 ## 💬 Questions?
 
 - Open a [Discussion](https://github.com/iamedobor/Data-Science-Projects/discussions/1)
+- Create an [Issue](https://github.com/iamedobor/Data-Science-Projects/issues)
 - Contact: projects@edoborosasere.com
 
 ## 🙏 Recognition
