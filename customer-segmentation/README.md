@@ -28,16 +28,18 @@ This project provides an end-to-end solution for customer segmentation, enabling
 
 ## 📋 Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Data Requirements](#data-requirements)
-- [Project Structure](#project-structure)
-- [Clustering Algorithms](#clustering-algorithms)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## 📋 Table of Contents
+
+- [Installation](#️-installation)
+- [Usage](#-usage)
+- [Data Requirements](#-data-requirements)
+- [Project Structure](#-project-structure)
+- [Clustering Algorithms](#-clustering-algorithms)
+- [Evaluation Metrics](#-evaluation-metrics)
+- [Screenshots](#-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
 
 ## 🛠️ Installation
 
