@@ -5,6 +5,9 @@ A comprehensive machine learning dashboard for customer segmentation using K-Mea
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
+
+[Live Dashboard](#-live-demo) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Cluster Algorithms](#-clustering-algorithms)
 
 ## 🎯 Overview
 
@@ -20,9 +23,17 @@ This project provides an end-to-end solution for customer segmentation, enabling
 - **📥 Export Results** - Download segmented customer lists for marketing campaigns
 - **🔍 Data Quality Checks** - Duplicate detection, outlier analysis, and missing value handling
 
+---
+
 ## 🚀 Live Demo
 
 **Version 1.0:** [Try it now](https://customer-segmentation-osasere-edobor.streamlit.app) *(specialized for marketing data)*
+
+*(Note: may take ~60 seconds to load due to server idle timeout)*
+
+**💻 Note: This dashboard is optimized for desktop/laptop viewing. Mobile experience is limited.**
+
+---
 
 **Version 2.0:** Coming soon - supports ANY customer dataset format! [Join the waitlist](#)
 
@@ -313,6 +324,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find this project useful, please consider giving it a star!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=iamedobor/Data-Science-Projects&type=Date)](https://star-history.com/#iamedobor/Data-Science-Projects&Date)
+
+
 
 
 ---
