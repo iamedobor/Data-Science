@@ -23,7 +23,6 @@ This project provides an end-to-end solution for customer segmentation, enabling
 - **📥 Export Results** - Download segmented customer lists for marketing campaigns
 - **🔍 Data Quality Checks** - Duplicate detection, outlier analysis, and missing value handling
 
----
 
 ## 🚀 Live Demo
 
