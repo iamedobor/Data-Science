@@ -7,7 +7,7 @@ A comprehensive machine learning dashboard for customer segmentation using K-Mea
 ![License](https://img.shields.io/badge/License-MIT-green)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
-[Live Dashboard](#-live-demo) • [Screenshots](#-screenshots) • [Installation](#-installation) • [Cluster Algorithms](#-clustering-algorithms)
+[Live Dashboard](#-live-demo) • [Screenshots](#-screenshots) • [Cluster Algorithms](#-clustering-algorithms)
 
 ## 🎯 Overview
 
